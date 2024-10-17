@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\temp\temp\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LibreOfficeOperations">
+      <HintPath>..\..\LibreOfficeOperations\LibreOfficeOperations\bin\Debug\netstandard2.0\LibreOfficeOperations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Proyectos\DocumentInformation\DocumentInformation\bin\Debug\netstandard2.0\DocumentInformation.deps.json
+C:\Proyectos\DocumentInformation\DocumentInformation\bin\Debug\netstandard2.0\DocumentInformation.dll
+C:\Proyectos\DocumentInformation\DocumentInformation\bin\Debug\netstandard2.0\DocumentInformation.pdb
+C:\Proyectos\DocumentInformation\DocumentInformation\bin\Debug\netstandard2.0\itextsharp.dll
+C:\Proyectos\DocumentInformation\DocumentInformation\obj\Debug\netstandard2.0\DocumentInformation.csproj.AssemblyReference.cache
+C:\Proyectos\DocumentInformation\DocumentInformation\obj\Debug\netstandard2.0\DocumentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\DocumentInformation\DocumentInformation\obj\Debug\netstandard2.0\DocumentInformation.AssemblyInfoInputs.cache
+C:\Proyectos\DocumentInformation\DocumentInformation\obj\Debug\netstandard2.0\DocumentInformation.AssemblyInfo.cs
+C:\Proyectos\DocumentInformation\DocumentInformation\obj\Debug\netstandard2.0\DocumentInformation.csproj.CoreCompileInputs.cache
+C:\Proyectos\DocumentInformation\DocumentInformation\obj\Debug\netstandard2.0\DocumentInformation.csproj.CopyComplete
+C:\Proyectos\DocumentInformation\DocumentInformation\obj\Debug\netstandard2.0\DocumentInformation.dll
+C:\Proyectos\DocumentInformation\DocumentInformation\obj\Debug\netstandard2.0\DocumentInformation.pdb
+C:\Proyectos\DocumentInformation\DocumentInformation\bin\Debug\netstandard2.0\LibreOfficeOperations.dll
+C:\Proyectos\DocumentInformation\DocumentInformation\bin\Debug\netstandard2.0\LibreOfficeOperations.pdb
